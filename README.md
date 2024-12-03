@@ -5,15 +5,15 @@
 I am a entry level/junior iOS📱and 🕷️Web🕸️ Developer
 
 ### Tech Stack🧳
-- <details>
-    <summary>Swift <img src="./icons/swift.png" width="18" /> </summary>
+<details>
+    <summary>Swift <img src="icons/swift.png" width="18" /> </summary>
     UIKit and SwiftUI (1 year)
 </details>
-- <details>
-    <summary>Web development <img src="./icons/js-svgrepo-com" width="18" /> <img src="./icons/html-5-svgrepo-com" width="18" /> </summary>
+<details>
+    <summary>Web development<img src="icons/html-5-svgrepo-com.svg" width="18" /><img src="icons/js-svgrepo-com.svg" width="18" /></summary>
     HTML, CSS, JavaScript (2 years)
 </details>
-- 
+
 <!--
 **Lord-Nickelbottoms/Lord-Nickelbottoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
