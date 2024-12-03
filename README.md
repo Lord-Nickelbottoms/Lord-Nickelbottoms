@@ -6,10 +6,13 @@ I am a entry level/junior iOS📱and 🕷️Web🕸️ Developer
 
 ### Tech Stack🧳
 - <details>
-    <summary>Swift ![swift](https://github.com/user-attachments/assets/7f5be694-d9e4-4de8-acba-56f95a9f3074) </summary>
+    <summary>Swift <img src="./swift.png" width="18" /> </summary>
     UIKit and SwiftUI (1 year)
 </details>
-- 
+- <details>
+    <summary>Web development <img src="" width="18" /> </summary>
+    HTML, CSS, JavaScript (2 years)
+</details>
 - 
 <!--
 **Lord-Nickelbottoms/Lord-Nickelbottoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
