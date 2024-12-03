@@ -6,11 +6,11 @@ I am a entry level/junior iOS📱and 🕷️Web🕸️ Developer
 
 ### Tech Stack🧳
 - <details>
-    <summary>Swift <img src="./swift.png" width="18" /> </summary>
+    <summary>Swift <img src="./icons/swift.png" width="18" /> </summary>
     UIKit and SwiftUI (1 year)
 </details>
 - <details>
-    <summary>Web development <img src="" width="18" /> </summary>
+    <summary>Web development <img src="./icons/js-svgrepo-com" width="18" /> <img src="./icons/html-5-svgrepo-com" width="18" /> </summary>
     HTML, CSS, JavaScript (2 years)
 </details>
 - 
